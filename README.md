@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Bem-vindos ao CodIFica!
 
-You can use the [editor on GitHub](https://github.com/Projeto-CodIFica/Projeto-CodIFica.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+O CodIFica propõe o desenvolvimento de aplicações de software para a solução de problemas reais. O principal objetivo é transformar ideias em produtos de software envolve ações que extrapolam a escrita de linhas de código. Essa tarefa requer um estudo profundo de viabilidade da proposta, planejamento e dedicação. Nossa ideia é trazer isso à realidade dos estudantes para desmitificar a ideia de que software é desenvolvido somente por programadores.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A ideia do CodIFica gira em torno da criação de um ambiente inspirado na indústria de desenvolvimento de software, mas com características que remetem a atuação de um grupo de estudos avançados, pois os estudantes conhecerão ferramentas e linguagens de programação à medida em que desenvolvem um produto. Além disso, envolve criatividade, raciocínio lógico, estimula a inovação e o empreendedorismo. Nossa proposta é que o aluno possa vivenciar esse processo. O aprendizado de programação é uma consequência natural dessa vivência.
 
-### Markdown
+O projeto tem potencial para construir um diálogo entre áreas de conhecimento distintas e que se complementam. É uma forma de lembrar os estudantes que todo conhecimento é válido. Até mesmo os alunos que hoje não se vêem atuando na área técnica do curso no qual estudam vislumbram no CodIFica a possibilidade de incorporar esse conhecimento técnico em um setor com o qual o estudante tenha mais afinidade. Nesse tipo de encontro podem surgir profissionais altamente especializados, seja pela experiência ou pela formação. Isso pode ser observado em diversas áreas, inclusive na comunicação e desenvolvimento de software é um território muito fértil para isso.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Projeto-CodIFica/Projeto-CodIFica.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+O Projeto CodIFica foi idealizado pelo professor Dr. André Assis Lôbo de Oliveira.
